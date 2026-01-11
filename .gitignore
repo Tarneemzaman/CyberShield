@@ -1,25 +1,28 @@
-# CakePHP 3
+# Python
+__pycache__/
+*.py[cod]
+*.env
+.env
+venv/
+.venv/
+*.sqlite3
 
-/vendor/*
-/config/app.php
+# Django
+staticfiles/
+media/
 
-/tmp/cache/models/*
-!/tmp/cache/models/empty
-/tmp/cache/persistent/*
-!/tmp/cache/persistent/empty
-/tmp/cache/views/*
-!/tmp/cache/views/empty
-/tmp/sessions/*
-!/tmp/sessions/empty
-/tmp/tests/*
-!/tmp/tests/empty
+# Node / frontend
+node_modules/
+/dist
+/build
 
-/logs/*
-!/logs/empty
+# OS
+.DS_Store
+Thumbs.db
 
-# CakePHP 2
+# IDEs
+.vscode/
+.idea/
 
-/app/tmp/*
-/app/Config/core.php
-/app/Config/database.php
-/vendors/*
+# Byte-compiled
+*.pyc
