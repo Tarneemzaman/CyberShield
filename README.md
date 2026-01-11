@@ -41,7 +41,7 @@ With the rapid digitalization of services, cybercrimes such as fraud, identity t
 
 ### 2. Database Setup
 1.  Open **phpMyAdmin** (`http://localhost/phpmyadmin`).
-2.  Create a new database named `cybershield_db`.
+2.  Create a new database named `cyber_shield_bd`.
 3.  Import the SQL schema provided in the `/database` folder of this repository.
 
 ### 3. Local Deployment
