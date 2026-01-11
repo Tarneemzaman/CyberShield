@@ -55,7 +55,7 @@ With the rapid digitalization of services, cybercrimes such as fraud, identity t
     $host = "localhost";
     $user = "root";
     $pass = "";
-    $dbname = "cybershield_db";
+    $dbname = "cyber_shield_bd";
     ```
 3.  Start **Apache** and **MySQL** from the XAMPP Control Panel.
 4.  Access the project at `http://localhost/CyberShield`.
